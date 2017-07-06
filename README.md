@@ -25,7 +25,9 @@ The simple procedure using the tool is:
 * https://github.com/gitlabhq/gitlabhq/blob/master/doc/markdown/markdown.md
    
 ## Embedding image
-   Simply use <img> that is already available of HTML tags. 
+   Simply use <img> that is already available of HTML tags.<br/>
+   Syntax: &lt;img src="full or partial path to images file"&gt;<br/>
+   Example: the logo of North Melbourne Football Club <img src="image/nmfc-logo.jpg">
 ## Emoji cheat sheet  
    * http://emoji.codes/
    
