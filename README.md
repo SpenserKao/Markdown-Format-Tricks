@@ -18,11 +18,11 @@ The simple procedure using the tool is:
 
 ### References
    1 https://github.com/ekalinin/github-markdown-toc
-   2 http://assemble.io/docs/Cheatsheet-Markdown.html
-   3 https://en.wikipedia.org/wiki/Markdown
-   4 https://guides.github.com/features/mastering-markdown/
-   5 http://daringfireball.net/projects/markdown/syntax
-   6 https://github.com/gitlabhq/gitlabhq/blob/master/doc/markdown/markdown.md
+   1 http://assemble.io/docs/Cheatsheet-Markdown.html
+   1 https://en.wikipedia.org/wiki/Markdown
+   1 https://guides.github.com/features/mastering-markdown/
+   1 http://daringfireball.net/projects/markdown/syntax
+   1 https://github.com/gitlabhq/gitlabhq/blob/master/doc/markdown/markdown.md
    
 ## Embedding image
    Simply use <img> that is already available of HTML tags. 
