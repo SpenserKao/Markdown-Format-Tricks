@@ -1,4 +1,18 @@
 # Markdown-Format-Tricks
+
+Table of Contents
+=================
+
+  * [Markdown-Format-Tricks](#markdown-format-tricks)
+    * [Additing ToC (Table of Content)](#additing-toc-table-of-content)
+      * [References](#references)
+    * [Embedding image](#embedding-image)
+    * [Emoji cheat sheet](#emoji-cheat-sheet)
+    * [How to attach a file into readme.md?](#how-to-attach-a-file-into-readmemd)
+    * [Gradle task check if property is defined](#gradle-task-check-if-property-is-defined)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 Aim to make markdown format more fun and viewer friendly, the project addresses topics about the addition of ToC (Table of Content), embedded image and emoji.
 
 ## Additing ToC (Table of Content)
