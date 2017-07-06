@@ -30,6 +30,8 @@ The simple procedure using the tool is:
       * No anchored link is appearing in heading of in order to be converted to a clickable ToC content
    1. Transfer the ToC-headed README.md back to gitlab project directory for rendering 
 
+The effect is self-evident as seen in this page.
+
 ### References
 * https://github.com/ekalinin/github-markdown-toc
 * http://assemble.io/docs/Cheatsheet-Markdown.html
