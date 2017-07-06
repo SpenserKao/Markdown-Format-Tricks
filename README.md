@@ -17,12 +17,12 @@ The simple procedure using the tool is:
    1. Transfer the ToC-headed README.md back to gitlab project directory for rendering 
 
 ### References
-   1 https://github.com/ekalinin/github-markdown-toc
-   1 http://assemble.io/docs/Cheatsheet-Markdown.html
-   1 https://en.wikipedia.org/wiki/Markdown
-   1 https://guides.github.com/features/mastering-markdown/
-   1 http://daringfireball.net/projects/markdown/syntax
-   1 https://github.com/gitlabhq/gitlabhq/blob/master/doc/markdown/markdown.md
+1 https://github.com/ekalinin/github-markdown-toc
+1 http://assemble.io/docs/Cheatsheet-Markdown.html
+1 https://en.wikipedia.org/wiki/Markdown
+1 https://guides.github.com/features/mastering-markdown/
+1 http://daringfireball.net/projects/markdown/syntax
+1 https://github.com/gitlabhq/gitlabhq/blob/master/doc/markdown/markdown.md
    
 ## Embedding image
    Simply use <img> that is already available of HTML tags. 
