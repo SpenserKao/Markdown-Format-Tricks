@@ -26,8 +26,8 @@ The simple procedure using the tool is:
    
 ## Embedding image
    Simply use <img> that is already available of HTML tags.<br/>
-   Syntax: &lt;img src="full or partial path to images file"&gt;<br/>
-   Example: logo of North Melbourne Football Club<br/> <img src="image/nmfc-logo.jpg" alt=" logo of North Melbourne Football Clu">
+   Syntax: _&lt;img src="full or partial path to images file"&gt;_<br/>
+   Example: logo of North Melbourne Football Club<br/> <img src="image/nmfc-logo.jpg" alt="logo of North Melbourne Football Club">
 ## Emoji cheat sheet  
    * http://emoji.codes/
    
