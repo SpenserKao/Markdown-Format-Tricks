@@ -15,7 +15,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 Aiming to make markdown format more fun and viewer friendly, the project addresses topics about the addition of ToC (Table of Content), embedded image and emoji.
 
-## Additing ToC (Table of Content)
+## Additing ToC (Table of Contents)
 "A ToC (Table of Contents) for README.md shall be handy", I believe most of md file's creators will come across the same question. Indeed, especially for long, multiple pages md file.<br/><br/>
 :thumbsup: The <a href="https://github.com/ekalinin/github-markdown-toc">github-markdown-toc.sh</a> is a handy tool doing such conversion.<br/><br/> 
 Note: Due to the problem of "-o" under gitbash, we have to temporarily place the downloaded _gh-md-toc.sh_ under _/home/spenserk/README.md_toc_conv_ of machine _sdcvd-wdtfapp01.bom.gov.au_.
