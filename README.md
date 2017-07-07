@@ -17,7 +17,7 @@ Aim to make markdown format more fun and viewer friendly, the project addresses 
 
 ## Additing ToC (Table of Content)
 "A ToC (Table of Contents) for README.md shall be handy", I believe most of md file's creators will come across the same question. Indeed, especially for long, multiple pages md file.<br/><br/>
-:thumbsup: The <a href="https://github.com/ekalinin/github-markdown-toc">github-markdown-toc.sh</a> is such a handy tool doing such conversion.<br/><br/> 
+:thumbsup: The <a href="https://github.com/ekalinin/github-markdown-toc">github-markdown-toc.sh</a> is a handy tool doing such conversion.<br/><br/> 
 Note: Due to the problem of "-o" under gitbash, we have to temporarily place the downloaded _gh-md-toc.sh_ under _/home/spenserk/README.md_toc_conv_ of machine _sdcvd-wdtfapp01.bom.gov.au_.
 The simple procedure using the tool is:
    1. Find a way to transfer the tool to machine, such as _sdcvd-wdtfapp01_
