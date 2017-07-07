@@ -13,7 +13,7 @@ Table of Contents
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
-Aim to make markdown format more fun and viewer friendly, the project addresses topics about the addition of ToC (Table of Content), embedded image and emoji.
+Aiming to make markdown format more fun and viewer friendly, the project addresses topics about the addition of ToC (Table of Content), embedded image and emoji.
 
 ## Additing ToC (Table of Content)
 "A ToC (Table of Contents) for README.md shall be handy", I believe most of md file's creators will come across the same question. Indeed, especially for long, multiple pages md file.<br/><br/>
